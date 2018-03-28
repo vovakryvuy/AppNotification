@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestNotification</string>
+    <string name="string_notification_title">You are create a notification</string>
+    <string name="string_notification_text">"Notification "</string>
+    <string name="string_for_buttom_create_notification">Create new \n notification</string>
+</resources>
